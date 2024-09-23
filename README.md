@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br>
-🌱 I’m currently learning Spring Boot in Spharos Academy which is boot camp that made by Shinsegae I&C and Busan Metropolitan City
+🌱 I’m currently learning Spring Boot and Next.JS <br> in Spharos Academy which is boot camp that made by Shinsegae I&C and Busan Metropolitan City
 
 
 ### [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kys9808)](https://solved.ac/kys9808)
