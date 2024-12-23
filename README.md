@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br>
-🌱 I’m currently probationary employee in a company which located on Busan
+🌱 I’m currently probationary employee in a company which located on Busan <br>
  I hope doing well on probation period and become regular employee and hoping will introduce myself with my company name
 </br>
 
