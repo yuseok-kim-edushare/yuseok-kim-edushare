@@ -1,6 +1,8 @@
 ## Hi there 👋
 <br>
-🌱 I’m currently learning Spring Boot and Next.JS <br> in Spharos Academy which is boot camp that made by Shinsegae I&C and Busan Metropolitan City
+🌱 I’m currently probationary employee in a company which located on Busan
+ I hope doing well on probation period and become regular employee and hoping will introduce myself with my company name
+</br>
 
 
 ### Backjoon Online Judge score (Problem Solving)
