@@ -17,6 +17,14 @@
 - 2019.08 ~ 2024.02. Republic of Korea [**Ministry of Education - Bachelor's Degree Examination for Self-Education.**](https://bdes.nile.or.kr/)
     - Bachelor of Engineering.
       - Major: C.S.E (Computer Science and Engineering)
+- 2024.08 ~ 2024.12. Republic of Korea [**Spharos Academy 5th**](https://swedu.spharosacademy.com/spharos_total.html)
+    - Cooding Boot camp - Shinsegae I&C and Busan Metropolitan City
+        - BackEnd : Java 17 & 21, Spring Boot 3, Web, Cloud(Config Server, Gateway), JPA(MySQL), Data Redis, Kafka
+        - FrontEnd: Next.JS 14, NextAuth 4, Node.JS(18 & 20)
+        - DevOps: AWS EC2, Github Actions, Jenkins, Nginx, Docker(+compose)
+    - 1st prise team in 2nd Project (Industry Mentored Projects)
+        - E-commerce MSA + EDA Projects [Team Github](https://github.com/1-Prompt-oven)
+        - My role is BackEnd Dev + Infra(Front and Back both) + Security Dev(Nginx mTLS setting, Diffie Hellman based PW encrypt to secure password)
 ### Certificate
 **Korea, National Technical Qualification**
 - 2019.08.16 : Industrial Engineer, Information Processing
