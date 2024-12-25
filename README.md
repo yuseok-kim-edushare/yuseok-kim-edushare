@@ -18,7 +18,7 @@
     - Bachelor of Engineering.
       - Major: C.S.E (Computer Science and Engineering)
 - 2024.08 ~ 2024.12. Republic of Korea [**Spharos Academy 5th**](https://swedu.spharosacademy.com/spharos_total.html)
-    - Cooding Boot camp - Shinsegae I&C and Busan Metropolitan City
+    - Cooding Boot camp - [Shinsegae.I&C](https://shinsegae-inc.com/) and [Busan Metropolitan City](busan.go.kr)
         - BackEnd : Java 17 & 21, Spring Boot 3, Web, Cloud(Config Server, Gateway), JPA(MySQL), Data Redis, Kafka
         - FrontEnd: Next.JS 14, NextAuth 4, Node.JS(18 & 20)
         - DevOps: AWS EC2, Github Actions, Jenkins, Nginx, Docker(+compose)
