@@ -1,14 +1,21 @@
 ## Hi there 👋
 <br>
-🌱 I’m currently probationary employee in a company which located on Busan <br>
- I hope doing well on probation period and become regular employee and hoping will introduce myself with my company name
+🔭 I’m currently working on Vilac, which is milk and beverage manufacturer which located on Busan <br>
+ Fortunately, I passed probational period well, then I'm Full-time Employee
 </br>
-
 
 ### Backjoon Online Judge score (Problem Solving)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kys9808)](https://solved.ac/kys9808)
 
 ## Short Resume Summary
+### Career
+- 2024.12. ~ Republic of Korea [**Vilac**](http://www.vilac.co.kr)
+    - Team member in charge of IT management
+      - Included Devloper Job
+        - In-house & System Integration ERP developer with Appeon Powerbuilder and Microsoft SQL Server
+          - +@SQL Server CLR Assembly(with .NET) and Stored Procedure develope
+        - Develope RPA solution with Microsoft PowerAutomate
+        - Also, sometimes, ASP.NET Razor Web pages and web developer job maybe included
 ### Education
 - 2017.03 ~ 2021.08. Republic of Korea [**Busan National University**](https://pusan.ac.kr)
     - Bachelor of Science.
