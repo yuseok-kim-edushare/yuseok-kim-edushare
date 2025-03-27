@@ -13,9 +13,11 @@
     - Team member in charge of IT management
       - Included Devloper Job
         - In-house & System Integration ERP developer with Appeon Powerbuilder and Microsoft SQL Server
-          - +@SQL Server CLR Assembly(with .NET) and Stored Procedure develope
+          - +@ SQL Server CLR Assembly(with .NET) and Stored Procedure develope
+          - +@ .NET DLL assembly project develope for integrate with powerbuilder
         - Develope RPA solution with Microsoft PowerAutomate
         - Also, sometimes, ASP.NET Razor Web pages and web developer job maybe included
+      - +@ any IT related jobs in company
 ### Education
 - 2017.03 ~ 2021.08. Republic of Korea [**Busan National University**](https://pusan.ac.kr)
     - Bachelor of Science.
