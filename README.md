@@ -1,13 +1,10 @@
 ## Hi there 👋
 <br>
-🔭 I’m currently working on Vilac, which is milk and beverage manufacturer which located on Busan <br>
- Fortunately, I passed probational period well, then I'm Full-time Employee
+🔭 I’m In-house IT Engineer of milk and beverage Manufacturer, do develope across tech stacks and operate our's ERP and so on.
+Fortunately, I'm glad to work on my jobs, cause I can learn about developing for people and operation with ours from My Excellent seniors.
+Also My team and colleagues are good people.
 </br>
 
-### Backjoon Online Judge score (Problem Solving)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kys9808)](https://solved.ac/kys9808)
-
-## Short Resume Summary
 ### Career
 - 2024.12. ~ Republic of Korea [**Vilac**](http://www.vilac.co.kr)
     - Team member in charge of IT management
@@ -40,6 +37,9 @@
 - 2023.05.25 : Engineer, Information Security
 - 2023.11.15 : Engineer, Information Processing
 - 2024.06.14 : Industrial Engineer, Hazardous material
+
+### Backjoon Online Judge score (Problem Solving)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kys9808)](https://solved.ac/kys9808)
 
 <!--
 **yuseok-kim-edushare/yuseok-kim-edushare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
